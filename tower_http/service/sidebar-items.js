@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LiftService","Wraps an `HttpService` instance, implementing `tower_service::Service`."],["LiftServiceRef","Wraps an `HttpService` reference, implementing `tower_service::Service`."]],"trait":[["HttpService","An HTTP service"]]});

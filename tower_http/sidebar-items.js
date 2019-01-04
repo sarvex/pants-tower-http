@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["add_origin",""],["service",""]],"struct":[["AddOrigin","Wraps an HTTP service, injecting authority and scheme on every request."]]});
